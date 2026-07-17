@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Recorridos Presi en la Localidad</name>
+    <description><![CDATA[11 de Julio<br>Forjadores<br>Av. de los Venados<br>La Calera]]></description>
+    <Style id="line-880E4F-4100-nodesc-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>4.1</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-880E4F-4100-nodesc-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>6.15</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-880E4F-4100-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-4100-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-4100-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-4488-nodesc-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>4.488</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-880E4F-4488-nodesc-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>6.732</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-880E4F-4488-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-4488-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-4488-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-4875-nodesc-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>4.875</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-880E4F-4875-nodesc-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>7.3125</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-880E4F-4875-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-4875-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-4875-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-880E4F-5650-nodesc-normal">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>5.65</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-880E4F-5650-nodesc-highlight">
+      <LineStyle>
+        <color>ff4f0e88</color>
+        <width>8.475</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-880E4F-5650-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-880E4F-5650-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-880E4F-5650-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Capa sin título</name>
+      <Placemark>
+        <name>Forjadores / Alejandro Hierro</name>
+        <styleUrl>#line-880E4F-4488-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.7628889,20.0587035,0
+            -98.7630177,20.0582047,0
+            -98.7631115,20.0577915,0
+            -98.7632161,20.057275,0
+            -98.7634897,20.0561513,0
+            -98.763825,20.0550704,0
+            -98.7640798,20.054317,0
+            -98.7643185,20.0535259,0
+            -98.7644285,20.053221,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Forjadores</name>
+        <styleUrl>#line-880E4F-4100-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.7619348,20.0573682,0
+            -98.7631472,20.0576353,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>La Calera</name>
+        <styleUrl>#line-880E4F-4875-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.7202775,20.0320428,0
+            -98.7178313,20.0319495,0
+            -98.7168497,20.0319268,0
+            -98.7162274,20.0318286,0
+            -98.7161174,20.032325,0
+            -98.7149265,20.0321385,0
+            -98.715066,20.0308181,0
+            -98.7151545,20.0299361,0
+            -98.7151974,20.0295102,0
+            -98.7152081,20.0289029,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11 de Julio</name>
+        <styleUrl>#line-880E4F-5650-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.7212023,20.1072083,0
+            -98.7219668,20.1066441,0
+            -98.7222538,20.1064124,0
+            -98.7224656,20.1061983,0
+            -98.7228331,20.1059111,0
+            -98.7229431,20.1058079,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tulipanes</name>
+        <styleUrl>#line-880E4F-4875-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -98.7680145,20.060022,0
+            -98.767749,20.0603571,0
+            -98.7673708,20.061312,0
+            -98.7669497,20.0622971,0
+            -98.7666707,20.0629547,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
